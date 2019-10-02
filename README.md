@@ -22,4 +22,6 @@
 #### A heatmap highlights specific "hotspots" that are more directly affected by fallen leaves.
 ![picture alt](https://github.com/naiemg/Leafless-Fallen-Leaves-Indicator/blob/master/Media/heatmap.png "Heatmap Generated") 
 
+## About the Team
+Leafless is a project by team Data Ninjas (Naiem Gafar, Alexander Tenf, Pablo Tenf, and Arthur Korchkov) of the NYC Open Data Student Showcase program. A special thanks to the [Tech Incubator at CUNY, Queens College](https://techincubatorqc.com/ "Link to TIQC"), [Crosscompute](https://crosscompute.com "Link to Crosscompute"), and all of the mentors who have provided exceptional feedback and resources to the team.
 
