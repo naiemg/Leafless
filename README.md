@@ -13,5 +13,5 @@
 * [Folium](https://pypi.org/project/folium/) - Renders heatmap from data
 
 ## Demo
-[Heatmap Generated](https://sites.google.com/view/leaflessnyc/zipcodes/11419 "Heatmap Generated")
+[Heatmap Generated](https://sites.google.com/view/leaflessnyc/zipcodes/11419 "Heatmap Generated")<br>
 [Tool & Choropleth Map](https://crosscompute.com/t/2Mdo29l4KCuHIRw4ViR8ZHvHU8YgdwXf "Tool")
