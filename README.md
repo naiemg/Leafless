@@ -16,7 +16,10 @@
 [Heatmap Generated](https://sites.google.com/view/leaflessnyc/zipcodes/11419 "Heatmap Generated")<br>
 [Tool & Choropleth Map](https://crosscompute.com/t/2Mdo29l4KCuHIRw4ViR8ZHvHU8YgdwXf "Tool")
 
+#### The result is a choropleth map that calculates the "risk" of each city block.
 ![picture alt](https://github.com/naiemg/Leafless-Fallen-Leaves-Indicator/blob/master/Media/choropleth.png "Choropleth Generated")
+
+#### A heatmap highlights specific "hotspots" that are more directly affected by fallen leaves.
 ![picture alt](https://github.com/naiemg/Leafless-Fallen-Leaves-Indicator/blob/master/Media/heatmap.png "Heatmap Generated") 
 
 
