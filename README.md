@@ -4,8 +4,13 @@
 
 ### An example of fallen leaves that would contribute to clogged catch basins
 ![picture alt](https://torontodrainservice.com/wp-content/uploads/2016/10/Leaves05-1024x310.jpg "An example of fallen leaves.") 
+## How We Built It
+* Using the 2015 Street Tree Census, this tool calculates an individual “risk” for each tree based on its dimensions, species, and health.
+* Additional information from the 311 Service Request dataset about clogged catch basins over the last 10 years are also used in calculating the riskiness of a tree based on the locations of nearby catch basins.
 
-## Built With
+
+
+## Tools
 * [Pandas](https://pandas.pydata.org/) - Used to clean up & organize data.
 * [Sodapy/Socrata](https://dev.socrata.com/consumers/getting-started.html) - API access to NYC Open Data Collections
 * [GeoTable](https://pypi.org/project/geotable/) - Used to handle spatial data
