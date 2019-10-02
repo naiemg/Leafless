@@ -15,3 +15,5 @@
 ## Demo
 [Heatmap Generated](https://sites.google.com/view/leaflessnyc/zipcodes/11419 "Heatmap Generated")<br>
 [Tool & Choropleth Map](https://crosscompute.com/t/2Mdo29l4KCuHIRw4ViR8ZHvHU8YgdwXf "Tool")
+
+![picture alt](https://github.com/naiemg/Leafless-Fallen-Leaves-Indicator/blob/master/Media/choropleth.png "Choropleth Generated") 
