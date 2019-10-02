@@ -25,3 +25,7 @@
 ## About the Team
 Leafless is a project by team Data Ninjas (Naiem Gafar, Alexander Tenf, Pablo Tenf, and Arthur Korchkov) of the NYC Open Data Student Showcase program. A special thanks to the [Tech Incubator at CUNY, Queens College](https://techincubatorqc.com/ "Link to TIQC"), [Crosscompute](https://crosscompute.com "Link to Crosscompute"), and all of the mentors who have provided exceptional feedback and resources to the team.
 
+## What's next for Leafless
+* Improve accuracy by incorporating weather & wind data
+* Compatibility with NYC Department of Sanitation trucks to ensure live time tracking of clean-up efforts
+
