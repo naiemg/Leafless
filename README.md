@@ -7,6 +7,7 @@
 
 ## Built With
 * [Pandas](https://pandas.pydata.org/) - Used to clean up & organize data.
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
-
+* [Sodapy/Socrata](https://dev.socrata.com/consumers/getting-started.html) - API access to NYC Open Data Collections
+* [GeoTable](https://pypi.org/project/geotable/) - Used to handle spatial data
+* [Wikipedia API](https://pypi.org/project/geotable/) - Scrape Wikipedia Articles to sort trees by type (coniferous, deciduous, etc)
+* [Folium](https://pypi.org/project/folium/) - Renders heatmap from data
